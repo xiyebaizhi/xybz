@@ -1,2 +1,2 @@
 # xybz
-for nature language progress
+Hi,this is test code
